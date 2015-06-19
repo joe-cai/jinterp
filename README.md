@@ -15,3 +15,5 @@ For example,
 >> add 1 3
 4
 ```
+
+[Try it out!] (http://joe-cai.github.io/jinterp/)
